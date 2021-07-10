@@ -1,1 +1,2 @@
-# C22-Constrained-Bodies
+# C20_boilerplate
+boilerplate for teacher activity
